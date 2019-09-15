@@ -1,1 +1,5 @@
-first_number = "Hello world!"    # Add your variables here
+# Add your variables here
+
+first_number = 15    
+
+second_number = 3
